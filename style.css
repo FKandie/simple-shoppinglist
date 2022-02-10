@@ -1,0 +1,27 @@
+/* Created by Felix Kandie */
+
+body {
+    
+}
+input {
+    display:block;
+    width:100px;
+}
+table {
+    border:2px solid orange;
+}
+tr {
+    border:1px solid grey;
+    background-color: green;
+}
+button {
+    border-radius:5px;
+    background-color:red;
+    font-weight:bold;
+}
+#add {
+    background-color: green;
+}
+.v {
+    background-color:green;
+}

@@ -1,0 +1,40 @@
+<!-- Created by Felix Kandie -->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+        <link rel="stylesheet" href="style.css">
+        <script src="myScript.js"></script> 
+    </head>
+    <body>
+        <table>
+            <tr>
+                <th>
+                    Number
+                </th>
+                <th>
+                    Item
+                </th>
+                <th>
+                    Quantity
+                </th>
+            </tr>
+            <tr id="1">
+                <td class="id">
+                    1.
+                </td>
+                <td>
+                    <input type="text" />
+                </td>
+                <td>
+                    <input type="number" />
+                </td>
+                <td>
+                    <button onclick="takeRow(1)" class="t">x</button>
+                </td>
+            </tr>
+        </table>
+        <button id="add" onclick="addRow()">add</button>
+    </body>
+</html>
