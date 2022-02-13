@@ -1,2 +1,2 @@
-# simple-shoppinglist
-This a simple shipping list for beginners in Front end development. 
+# Shopping list
+Its a simple shopping List app that I have created with Html,Css and Javascript.
